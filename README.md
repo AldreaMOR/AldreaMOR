@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 Sobre mim
+Eu sou uma pessoa que trabalha como Analista de Testes, e iniciando os estudos com Selenium e Cypress.
+
+## 🛠 Habilidades
+JAVA, Javascript, HTML, CSS, SQL, NoSQL, automação de testes.
